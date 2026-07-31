@@ -1,0 +1,6 @@
+streamlit
+plotly
+pandas
+numpy
+statsmodels
+kaleido==0.2.1
